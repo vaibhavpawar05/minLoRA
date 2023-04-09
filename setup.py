@@ -7,7 +7,7 @@ setup(
     packages=["minlora"],
     description="A PyTorch re-implementation of LoRA",
     license="MIT",
-    #install_requires=[
-    #    "torch>=1.9.0",
-    #],
+    install_requires=[
+        "torch>=1.9.0",
+    ],
 )
