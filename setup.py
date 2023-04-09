@@ -8,6 +8,6 @@ setup(
     description="A PyTorch re-implementation of LoRA",
     license="MIT",
     install_requires=[
-        "torch>=1.9.0",
+        "torch>=1.7.0",
     ],
 )
